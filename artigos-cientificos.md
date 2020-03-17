@@ -1,6 +1,5 @@
-# Artigos Científicos
+# Lista de artigos científicos sobre machine learning.
 
-Lista de artigos científicos sobre machine learning.
 
 ### Legenda
 
