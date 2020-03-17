@@ -1,6 +1,11 @@
-# Conferências
+# Lista de Conferências sobre Machine Learning
 
-Lista de conferências sobre Machine Learning
+
+### Legenda
+
+| Simbolo | Significado|
+|---------|------------|
+| 🔥      | Conferência interessante para submeter artigos |
 
 
 ## Brasil
@@ -8,7 +13,8 @@ Lista de conferências sobre Machine Learning
 
 ### Santa Catarina
 
-[Computer on the Beach](https://www.computeronthebeach.com.br)
+🔥 [COTB - Computer on the Beach](https://www.computeronthebeach.com.br)
+  * Qualis 2016 - B4
 
 [TDC - Floripa](https://thedevconf.com/tdc/2019/florianopolis/trilhas)
 
@@ -16,3 +22,8 @@ Lista de conferências sobre Machine Learning
 
 
 [ICML - International Conference on Machine Learning](https://icml.cc)
+   * Qualis 2016 - A1
+
+## TODO
+
+- [ ] Extrair dados de outras conferencias sobre machine learning
