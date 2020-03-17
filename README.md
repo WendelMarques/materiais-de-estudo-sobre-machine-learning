@@ -10,6 +10,7 @@ Materiais de estudos sobre Machine Learning
 * [Bases de Dados](bases-de-dados.md)
 * [Conferências](conferencias.md)
 * [Competições](competicoes.md)
+* [Cursos](cursos.md)
 * [Frameworks](frameworks.md)
 * [Livros](livros.md)
 * [Pesquisadores](pesquisadores.md)
