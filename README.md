@@ -6,7 +6,7 @@ Materiais de estudos sobre Machine Learning
 ## [Tabela de Conteúdos]()
 
 * [Por Onde Começar](por-onde-comecar.md)
-* [Áreas de Aplicaçoes de Machine Learning](areas-aplicacoes-ml.md)
+* [Áreas de Aplicações de Machine Learning](areas-aplicacoes-ml.md)
 * [Artigos Científicos](artigos-cientificos.md)
 * [Bases de Dados](bases-de-dados.md)
 * [Conferências](conferencias.md)
