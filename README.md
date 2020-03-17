@@ -35,7 +35,7 @@ Agradecimentos especiais a todos que contribuíram para este projeto.
 
 ## Contatos e Comentários
 
-Se você tiver alguma sugestão (artigos ausentes, novos artigos, erros de digitação, etc), sinta-se à vontade para fazer uma nova **issue**. 
+Se você tiver alguma sugestão (artigos ausentes, novos artigos, erros de digitação, etc), sinta-se à vontade para fazer uma nova [**issue**](https://github.com/univille-machine-learning/materiais-de-estudo-sobre-machine-learning/issues/new). 
 
 Você também pode enviar um email para: 
 
