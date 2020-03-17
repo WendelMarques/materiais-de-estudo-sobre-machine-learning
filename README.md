@@ -7,7 +7,10 @@ Materiais de estudos sobre Machine Learning
 
 * [Por onde começar](por-onde-comecar.md)
 * [Artigos Científicos](artigos-cientificos.md)
+* [Conferências](conferencias.md)
+* [Competições](competicoes.md)
 * [Livros](livros.md)
+* [Pesquisadores](pesquisadores.md)
 * [Podcasts](podcasts.md)
 * [Posts](posts.md)
 * [Vídeos](videos.md)
