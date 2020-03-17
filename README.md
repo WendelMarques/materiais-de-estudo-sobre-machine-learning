@@ -4,7 +4,7 @@
 O aprendizado de máquina (_machine learning_) é um ramo da ciência da computação que oferece aos computadores a capacidade de fazer previsões sem serem explicitamente programados.
 
 
-## [Tabela de Conteúdos]()
+## Tabela de Conteúdos
 
 * [Por Onde Começar](por-onde-comecar.md)
 * [Áreas de Aplicações de Machine Learning](areas-aplicacoes-ml.md)
