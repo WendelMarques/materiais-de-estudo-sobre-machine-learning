@@ -15,6 +15,7 @@ Materiais de estudos sobre Machine Learning
 * [Frameworks](frameworks.md)
 * [Journals](journals.md)
 * [Livros](livros.md)
+* [Matemática para Machine Learning](matematica-para-ml.md)
 * [Pesquisadores](pesquisadores.md)
 * [Podcasts](podcasts.md)
 * [Posts](posts.md)
