@@ -7,13 +7,13 @@ Lista de livros sobre Machine Learning.
 
 Warden, Pete. Situnayake, Daniel. Tiny ML. O'Reilly, 2020.
 
-[Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.](https://mml-book.github.io/book/mml-book.pdf)
+🔥 [Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.](https://mml-book.github.io/book/mml-book.pdf)
 
 ## 2019
 
 Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, 2019.
 
-Burkov, Andriy. The hundred-page machine learning book. Quebec City, Can.: Andriy Burkov, 2019.
+🔥 Burkov, Andriy. The hundred-page machine learning book. Quebec City, Can.: Andriy Burkov, 2019.
 
 Harrison, Matt. Machine Learning Pocket Reference: Working with Structured Data in Python. O'Reilly, 2019.
 
