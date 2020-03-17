@@ -2,20 +2,28 @@
 
 Lista de livros sobre Machine Learning.
 
+### Legenda
+
+| Simbolo | Significado|
+|---------|------------|
+| 🔥      | Leitura recomendada |
+| 🇧🇷      | Possui tradução em português |
+| 🆓      | Gratuíto |
+
 
 ## 2020
 
 Warden, Pete. Situnayake, Daniel. Tiny ML. O'Reilly, 2020.
 
-🔥 [Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.](https://mml-book.github.io/book/mml-book.pdf)
+🔥🆓 [Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.](https://mml-book.github.io/book/mml-book.pdf)
 
 ## 2019
 
-Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, 2019.
+🇧🇷 Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, 2019.
 
 🔥 Burkov, Andriy. The hundred-page machine learning book. Quebec City, Can.: Andriy Burkov, 2019.
 
-Harrison, Matt. Machine Learning Pocket Reference: Working with Structured Data in Python. O'Reilly, 2019.
+🇧🇷 Harrison, Matt. Machine Learning Pocket Reference: Working with Structured Data in Python. O'Reilly, 2019.
 
 Trask, Andrew. Grokking deep learning. Manning Publications Co., 2019.
 
@@ -25,7 +33,7 @@ Mishra, Kal. Heard In Data Science Interviews: Over 650 Most Commonly Asked Inte
 
 ## 2017
 
-[Ketkar, Nikhil. Deep Learning with Python. Vol. 1. Berkeley, CA: Apress, 2017.](http://elib.vums.ac.ir/bitstream/Hannan/20545/1/9781484227657.pdf)
+🆓 [Ketkar, Nikhil. Deep Learning with Python. Vol. 1. Berkeley, CA: Apress, 2017.](http://elib.vums.ac.ir/bitstream/Hannan/20545/1/9781484227657.pdf)
 
 Muller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. O'Reilly Media, 2017.
 
