@@ -13,6 +13,7 @@ Materiais de estudos sobre Machine Learning
 * [Pesquisadores](pesquisadores.md)
 * [Podcasts](podcasts.md)
 * [Posts](posts.md)
+* [Slides](slides.md)
 * [Vídeos](videos.md)
 
 ## Agradecimentos
