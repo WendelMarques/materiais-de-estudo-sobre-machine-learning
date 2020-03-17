@@ -5,7 +5,7 @@ Materiais de estudos sobre Machine Learning
 
 ## [Tabela de Conteúdos]()
 
-* [Por onde começar](por-onde-comecar.md)
+* [Por Onde Começar](por-onde-comecar.md)
 * [Artigos Científicos](artigos-cientificos.md)
 * [Conferências](conferencias.md)
 * [Competições](competicoes.md)
