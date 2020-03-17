@@ -2,6 +2,8 @@
 
 Materiais de estudos sobre Machine Learning
 
+O aprendizado de máquina é um ramo da ciência da computação que oferece aos computadores a capacidade de fazer previsões sem serem explicitamente programados.
+
 
 ## [Tabela de Conteúdos]()
 
