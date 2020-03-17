@@ -21,6 +21,7 @@ O aprendizado de máquina (_machine learning_) é um ramo da ciência da computa
 * [Podcasts](podcasts.md)
 * [Posts](posts.md)
 * [Slides](slides.md)
+* [Surveys](surveys.md)
 * [Vídeos](videos.md)
 
 ## Agradecimentos
