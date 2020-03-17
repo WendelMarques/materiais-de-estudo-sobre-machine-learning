@@ -1,5 +1,15 @@
 # Artigos Científicos
 
+Lista de artigos científicos sobre machine learning.
+
+### Legenda
+
+| Simbolo | Significado|
+|---------|------------|
+| 🔥      | Leitura recomendada |
+| 🇧🇷      | Possui tradução em português |
+| 🆓      | Gratuíto |
+
 ## 2020
 []()
 
