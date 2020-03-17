@@ -1,5 +1,7 @@
 # Livros
 
+Lista de livros sobre Machine Learning.
+
 
 ## 2020
 
