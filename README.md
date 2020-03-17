@@ -12,6 +12,7 @@ Materiais de estudos sobre Machine Learning
 * [Competições](competicoes.md)
 * [Cursos](cursos.md)
 * [Frameworks](frameworks.md)
+* [Journals](journals.md)
 * [Livros](livros.md)
 * [Pesquisadores](pesquisadores.md)
 * [Podcasts](podcasts.md)
