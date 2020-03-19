@@ -1,5 +1,6 @@
 # Materiais de estudos sobre Machine Learning
 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/univille-machine-learning/materiais-de-estudo-sobre-machine-learning?style=plastic">  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/univille-machine-learning/materiais-de-estudo-sobre-machine-learning?style=plastic">. <img alt="GitHub issues" src="https://img.shields.io/github/issues/univille-machine-learning/materiais-de-estudo-sobre-machine-learning?style=plastic">
 
 O aprendizado de máquina (_machine learning_) é um ramo da ciência da computação que oferece aos computadores a capacidade de fazer previsões sem serem explicitamente programados.
 
