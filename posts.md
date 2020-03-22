@@ -8,9 +8,12 @@
 
 ## 2020
 
+[Completely Free Machine Learning Reading List](https://towardsdatascience.com/completely-free-machine-learning-reading-list-eab0c8990c54)
+
 [The Best Data Science, Machine Learning, and Artificial Intelligence Podcasts](https://medium.com/better-programming/the-best-data-science-machine-learning-and-artificial-intelligence-podcasts-ae4b4e3f8ea9)
 
 [Everything you need to become a self-taught Machine Learning Engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
+
 
 ## 2019
 
