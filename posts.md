@@ -10,6 +10,8 @@
 
 [The Best Data Science, Machine Learning, and Artificial Intelligence Podcasts](https://medium.com/better-programming/the-best-data-science-machine-learning-and-artificial-intelligence-podcasts-ae4b4e3f8ea9)
 
+[Everything you need to become a self-taught Machine Learning Engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
+
 ## 2019
 
 [Machine Learning — Probability & Statistics](https://towardsdatascience.com/machine-learning-probability-statistics-f830f8c09326)
