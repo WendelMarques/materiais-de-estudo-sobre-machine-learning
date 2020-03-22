@@ -45,6 +45,12 @@ Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2
 
 [Marsland, Stephen. Machine learning: an algorithmic perspective. CRC press, 2015.](http://repository.fue.edu.eg/xmlui/bitstream/handle/123456789/3667/10501.pdf?sequence=1&isAllowed=y)
 
+🆓[Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015](http://neuralnetworksanddeeplearning.com/index.html)
+
+## 2013
+
+James, Gareth, et al. An introduction to statistical learning. Vol. 112. New York: springer, 2013.
+
 ## 2011
 
 Bishop, Christopher M. Pattern recognition and machine learning. springer, 2011.
