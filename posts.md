@@ -16,6 +16,10 @@
 
 [Machine Learning — Probability & Statistics](https://towardsdatascience.com/machine-learning-probability-statistics-f830f8c09326)
 
+## 2018
+
+[Python Implementation of Andrew Ng’s Machine Learning Course (Part 1)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
+
 ## 2017
 
 [Towards Data Science - The mathematics of machine learning.](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
